@@ -1,6 +1,6 @@
 import React from 'react';
 import {useDispatch} from 'react-redux';
-import { loadDetail } from '../actions/detailsAction.js';
+
 const Movies = ({title,release,overview,image,id,vote_average}) => {
 
 	const dispatch = useDispatch();

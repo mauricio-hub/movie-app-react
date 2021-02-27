@@ -56,7 +56,7 @@ remove found movies</button>
                   )}
 
 			
-			<h2>Pooular Movies</h2>
+			<h2>Popular Movies</h2>
 			<div className="movie-container">
 				
 				{popular.map((movie) =>(
